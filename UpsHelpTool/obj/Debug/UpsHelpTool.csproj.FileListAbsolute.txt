@@ -1,0 +1,10 @@
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\bin\Debug\UpsHelpTool.exe.config
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\bin\Debug\UpsHelpTool.exe
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\bin\Debug\UpsHelpTool.pdb
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.Properties.Resources.resources
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.csproj.GenerateResource.cache
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.csproj.CoreCompileInputs.cache
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.exe
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.pdb
+C:\Users\junes\source\repos\UpsHelpTool\UpsHelpTool\obj\Debug\UpsHelpTool.Form1.resources
