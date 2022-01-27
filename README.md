@@ -10,10 +10,10 @@
   
 ### 照片
 
-![image](https://github.com/Chihhao/UpsHelpTool/blob/master/Image/UI.png)  
-![image](https://github.com/Chihhao/UpsHelpTool/blob/master/Image/1.jpg)
-![image](https://github.com/Chihhao/UpsHelpTool/blob/master/Image/2.jpg)
-![image](https://github.com/Chihhao/UpsHelpTool/blob/master/Image/3.png)
-![image](https://github.com/Chihhao/UpsHelpTool/blob/master/Image/4.jpg)
-![image](https://github.com/Chihhao/UpsHelpTool/blob/master/Image/5.png)  
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/UI.jpg)  
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/1.jpg)
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/2.jpg)
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/3.jpg)
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/4.jpg)
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/5.jpg)  
 
