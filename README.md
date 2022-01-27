@@ -3,9 +3,9 @@
 針對沒有通訊功能的 UPS (例如 APC BV1000)，當意外發生時(停電)，UPS 雖然可以提供一小段時間的電力，但沒有辦法通知 PC，若人不在現場，在 UPS 電池沒電之後，PC 仍然會意外斷電。  
 
 ### 核心想法：市電正常時，利用 Relay 讓 RS232 的PIN1-PIN7 短路，否則開路。以 C# 即時監控 RS232 的 PIN1，以達到偵測市電是否正常的目的。  
-
-* 使用 .net 4.5.2
-* 3D列印外殼: https://www.tinkercad.com/things/dkstwTXCMdD  
+![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/0.jpg)
+* 程式開始時將 serialPort1.RtsEnable 設定為 true，也就是將 PIN7 設定為 HIGH
+* 接著就可以用 serialPort1.CDHolding 來判斷 CD (PIN1) 的狀態
 
 ### 照片
 
@@ -16,3 +16,6 @@
 ![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/4.jpg)
 ![image](https://github.com/Chihhao/UpsHelpTool/blob/main/Image/5.jpg)  
 
+### 其他
+* 本程式使用使用 .net 4.5.2
+* 3D列印外殼: https://www.tinkercad.com/things/dkstwTXCMdD  
